@@ -140,5 +140,8 @@
       }
     }
   },
-  "defaultProject": "orpg"
+  "defaultProject": "orpg",
+  "cli": {
+    "analytics": false
+  }
 }
