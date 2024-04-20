@@ -681,14 +681,14 @@ export const Campaigns = [
   },
   {
     title: 'OBELISK',
-    label: '오벨리스크 테스트',
+    label: '골든 볼트',
     platform: 'roll20',
     npcs: [
       ],
     logs: [
     {
       index: '1',
-      name: '판델버와 부서진 오벨리스크 1화',
+      name: '골든 볼트: 별에 뻗은 손',
       images: [
       ],
       interfaces: [
