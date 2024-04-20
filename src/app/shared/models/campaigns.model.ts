@@ -1,3 +1,6 @@
+import { ClrLabel } from "@clr/angular";
+import { title } from "process";
+
 export const Campaigns = [
   {
     title: 'TEST', // orpg\src\campaigns에서 세션 로그가 들어있는 폴더 이름
@@ -675,6 +678,24 @@ export const Campaigns = [
         ],
       },
     ]
+  },
+  {
+    title: 'OBELISK',
+    label: '오벨리스크 테스트',
+    platform: 'roll20',
+    npcs: [
+      ],
+    logs: [
+    {
+      index: '1',
+      name: '판델버와 부서진 오벨리스크 1화',
+      images: [
+      ],
+      interfaces: [
+      ],
+    },
+   ],
+
   },
 ];
 
