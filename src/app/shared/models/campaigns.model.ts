@@ -680,7 +680,7 @@ export const Campaigns = [
     ]
   },
   {
-    title: 'OBELISK',
+    title: 'GOLDENVAULT',
     label: '골든 볼트',
     platform: 'roll20',
     npcs: [
