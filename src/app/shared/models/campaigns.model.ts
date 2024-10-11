@@ -18,7 +18,26 @@ export const Campaigns = [
       ],
     },
    ],
+   
   },
+  {
+    title: 'OBELISK',
+    label: '판델버와 부서진 오벨리스크',
+    platform: 'roll20',
+    npcs: [
+      ],
+    logs: [
+    {
+      index: '1',
+      name: '1화',
+      images: [
+      ],
+      interfaces: [
+      ],
+    },
+   ],
+
+  }
 ];
 
 export interface Campaign {
